@@ -1,0 +1,30 @@
+* {
+      -webkit-box-sizing: border-box;
+          -moz-box-sizing: border-box;
+              box-sizing: border-box;
+}
+
+body { padding: 5px;
+       background: #fbfbfb;
+       font-family: 'Didact Gothic', sans-serif;
+       color: #0f0a01; }
+
+h1 { font-family: 'Syncopate', sans-serif;
+     color: #08327d;
+     font-weight: bold;
+     font-size: 200%;
+     margin: 0;
+     text-align: left }
+     
+h2 { font-family: 'Syncopate', sans-serif;
+     font-weight: normal;
+     color: #558a86;
+     margin: 0;
+     font-size: 100%;
+     text-align: left;
+     border-top: 1px solid black;
+     border-bottom: 1px solid black; }
+
+
+#portrait { height: 200px;
+            border: 1px solid black; }
